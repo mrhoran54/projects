@@ -1,3 +1,3 @@
 # projects
 
-This is all my favorite projects from school: Java programming and C programming! 
+These are some projects about basic data structures and object oriented programming principles in Java. 
